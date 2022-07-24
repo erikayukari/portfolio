@@ -1,6 +1,6 @@
 # portfolio
  * site simples e responsivo inspirado pelo modelo e conhecimento compartilhado pela [Ania Kubów](https://www.youtube.com/c/AniaKub%C3%B3w)
- * agradeço especialmente: todos os orientadores e professores do Master em Jornalismo de Dados, Automação e Datastorytelling do Insper 2021/22. 
+ * agradeço especialmente: **todos os orientadores e colegas** do Master em Jornalismo de Dados, Automação e Datastorytelling do Insper 2021/22. 
  
  ------ 
  
